@@ -1,5 +1,5 @@
 # Firmware_Reverse_Study
-[iot-wiki](https://iot-security.wiki/)
+[iot-wiki](https://iot-security.wiki/) —— x
 
 [[分享]一次嵌入式固件逆向实践 ](https://bbs.kanxue.com/thread-266803.htm)
 
