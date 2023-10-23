@@ -84,6 +84,9 @@
 [PLC固件逆向小试](https://www.amobbs.com/thread-5617733-1-1.html)
 
 [如何逆向分析嵌入式设备的BootLoader（U-Boot），第1篇](https://nosec.org/home/detail/4981.html)
+
 [逆向工程友讯科技路由器固件后门](https://linux.cn/article-2096-1.html)
+
 [智能设备-使用FirmAE 对zyxel路由器固件仿真实践](http://www.yxfzedu.com/article/363)
+
 [智能门锁与 BLE 设备安全 Part 6：果加智能门锁的全面分析（上）](https://paper.seebug.org/1532/)
