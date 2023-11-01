@@ -1,4 +1,7 @@
 # Firmware_Reverse_Study
+## tools
+[cpu_rec](https://github.com/airbus-seclab/cpu_rec) —— binwalk recongize plugin
+## blog
 [iot-wiki](https://iot-security.wiki/) —— 有营养，但不多
 
 [[分享]一次嵌入式固件逆向实践 ](https://bbs.kanxue.com/thread-266803.htm)
